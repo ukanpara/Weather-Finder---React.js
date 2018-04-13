@@ -1,7 +1,9 @@
 Weather Finder App - React.js
 
-•	Technologies used: HTML5, CSS3, React.js, OpenWeatherMap API
 
-•	A Weather Finder app using React.js which uses OpenWeatherMap API to fetch live weather information to render current weather condition
+•	A Weather Finder app is an application which provides live weather information of any city, byenter city name and country name and displays live temperature, humidity , present weather condition of a city.
 
-•	The weather app displays temperature, humidity, present weather condition of a city
+• The application is developed using React.js 
+
+<img width="1438" alt="screen shot 2018-04-12 at 10 09 27 pm" src="https://user-images.githubusercontent.com/33382057/38717848-43c6d7b6-3e9e-11e8-8702-826f59f53dd2.png">
+
