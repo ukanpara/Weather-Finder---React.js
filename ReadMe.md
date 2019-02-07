@@ -1,7 +1,7 @@
 Weather Finder App - React.js
 
 
-•	A Weather Finder app is an application which provides live weather information of any city, byenter city name and country name and displays live temperature, humidity , present weather condition of a city.
+•	A Weather Finder app is an application which provides live weather information of any city, by entering city name, country name and displays live temperature, humidity , present weather condition of a city.
 
 • The application is developed using React.js 
 
